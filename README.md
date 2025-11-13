@@ -20,7 +20,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ---
 
-## 💡 Fun Facts
+## 💡 Facts about me
 
 - Based in **Paris, France** 🇫🇷
 - Passionate about **applied mathematics** and **optimization algorithms**
