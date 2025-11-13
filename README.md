@@ -151,23 +151,6 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ndje-enge&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### ⭐️ **Feel free to explore my repositories and reach out for any collaboration opportunities!**
 
 **Open to opportunities in Data Engineering, MLOps, and AI/ML roles**
 
