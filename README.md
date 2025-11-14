@@ -40,7 +40,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[QRT Survival Prediction Challenge](https://github.com/ndje-enge/Clinical-Survival-Prediction)** — Survival prediction model for patients with myeloid leukemia (partnership with Institut Gustave Roussy). Uses clinical and molecular genomic data with advanced survival models (Random Survival Forest, Gradient Boosting, Coxnet). Achieves IPCW C-index of 0.68+ on validation set.
 
-**[AWS Bankruptcy Prediction](https://github.com/ndje-enge/AWS-Bankruptcy-prediction)** — MLPClassifier model for predicting bankruptcy of Taiwanese companies (95 financial features). Deployed on AWS SageMaker with REST API (Lambda + API Gateway). ROC-AUC: 0.9936, Accuracy: 0.981. Complete ML lifecycle management (SMOTE-Tomek, SelectKBest, early stopping).
+**[AWS Bankruptcy Prediction](https://github.com/ndje-enge/AWS-Bankruptcy-prediction)** — MLPClassifier model for predicting bankruptcy of Taiwanese companies (95 financial features). Deployed on AWS SageMaker with REST API (Lambda + API Gateway). ROC-AUC: 0.92, Accuracy: 0.93. Complete ML lifecycle management (SMOTE-Tomek, SelectKBest, early stopping).
 
 **[Demand Forecasting](https://github.com/ndje-enge/Demand-forcasting)** — Time series forecasting model for predicting product demand using advanced statistical and machine learning techniques. Implements ARIMA, Prophet, and LSTM models for accurate demand predictions.
 
