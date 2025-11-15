@@ -35,6 +35,8 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Multi-Agent School Assistant](https://github.com/ndje-enge/Multi-Agent-for-academical-assistance)** — Intelligent educational assistant for middle school students using multi-agent architecture with Google Vertex AI. 5 specialized agents collaborate (RAG Search, Pedagogical, Assessment, Planning, Orchestrator) to provide personalized assistance. Deployed on GCP with Gemini.
 
+**[Named Entity Recognition](https://github.com/ndje-enge/Named-entity-recognition-Project)** — NLP project implementing custom NER models for extracting entities from French text. Uses fine-tuned transformers (CamemBERT) for high-accuracy entity extraction in legal and real estate domains.
+
 ### 📊 Machine Learning & Data Science
 
 **[QRT Survival Prediction Challenge](https://github.com/ndje-enge/Clinical-Survival-Prediction)** — Survival prediction model for patients with myeloid leukemia (partnership with Institut Gustave Roussy). Uses clinical and molecular genomic data with advanced survival models (Random Survival Forest, Gradient Boosting, Coxnet). Achieves IPCW C-index of 0.68+ on validation set.
@@ -43,13 +45,15 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Demand Forecasting](https://github.com/ndje-enge/Demand-forcasting)** — Time series forecasting model for predicting product demand using advanced statistical and machine learning techniques. Implements ARIMA, Prophet, and LSTM models for accurate demand predictions.
 
-**[Named Entity Recognition](https://github.com/ndje-enge/Named-entity-recognition-Project)** — NLP project implementing custom NER models for extracting entities from French text. Uses fine-tuned transformers (CamemBERT) for high-accuracy entity extraction in legal and real estate domains.
+**[Body Fat Prediction Analysis Project](https://github.com/ndje-enge/Body-Fat-Prediction)** - This project consists of a comprehensive analysis and prediction of body fat percentage from anthropometric measurements. The objective is to develop machine learning models capable of accurately predicting an individual's body fat percentage based on simple body measurements.
 
 ### 🎥 Computer Vision
 
 **[Violence Detection Project](https://github.com/ndje-enge/Violence-Detection-Project)** — Deep learning model for detecting violent behavior in video streams. Implements CNN-LSTM architecture for real-time violence detection with high accuracy for security applications.
 
 **[Plastic Waste Detection Project](ndje-enge/Plastic-Waste-Detection)** - End-to-end Computer Vision pipeline for training and evaluating YOLOv5 models to detect plastic waste in environmental images. Two model variants were trained and compared: YOLOv5s (small, fast) and YOLOv5l (large, accurate).
+
+**[Harris Corner Implementation](https://github.com/ndje-enge/Harris-corner-detection)** - A Python implementation of the Harris Corner Detection algorithm using OpenCV and NumPy. This project demonstrates one of the fundamental corner detection techniques in computer vision.
 
 ### ☁️ DevOps & Cloud Engineering
 
@@ -60,6 +64,10 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 **[Business Intelligence Project](https://github.com/ndje-enge/Business-Intelligence-Project)** — Comprehensive BI solution with interactive dashboards and ETL pipelines. Implements data warehousing, OLAP cubes, and advanced analytics for business decision support using SQL, Python, and visualization tools.
 
 **[Land Values Data Analysis](https://github.com/ndje-enge/Land-Values-Data-Analysis)** — Geospatial analysis of real estate land values in France. Uses statistical modeling, clustering, and visualization techniques to identify market trends and pricing patterns across different regions.
+
+### 👾 Software Engineering
+
+**[Music-Library-Project](https://github.com/ndje-enge/Music-Library-Project)** - This project aims to develop an interactive app allowing users to manage their music library and listen to their favourite songs. In a team project context (4 people) we used Jira to dedicate the different tasks to each other as well as git to update our project easily without conflicts.
 
 ### 💻 Systems Programming
 
