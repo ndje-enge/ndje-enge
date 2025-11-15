@@ -51,7 +51,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Violence Detection Project](https://github.com/ndje-enge/Violence-Detection-Project)** — Deep learning model for detecting violent behavior in video streams. Implements CNN-LSTM architecture for real-time violence detection with high accuracy for security applications.
 
-**[Plastic Waste Detection Project](ndje-enge/Plastic-Waste-Detection)** - End-to-end Computer Vision pipeline for training and evaluating YOLOv5 models to detect plastic waste in environmental images. Two model variants were trained and compared: YOLOv5s (small, fast) and YOLOv5l (large, accurate).
+**[Plastic Waste Detection Project](https://github.com/ndje-enge/Plastic-Waste-Detection)** - End-to-end Computer Vision pipeline for training and evaluating YOLOv5 models to detect plastic waste in environmental images. Two model variants were trained and compared: YOLOv5s (small, fast) and YOLOv5l (large, accurate).
 
 **[Harris Corner Implementation](https://github.com/ndje-enge/Harris-corner-detection)** - A Python implementation of the Harris Corner Detection algorithm using OpenCV and NumPy. This project demonstrates one of the fundamental corner detection techniques in computer vision.
 
