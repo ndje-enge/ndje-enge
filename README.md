@@ -71,7 +71,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ### 💻 Systems Programming
 
-**[SensorMonitor (C++)](https://github.com/ndje-enge/SensorMonitor)** — Sensor simulation system in C++ using object-oriented programming. Implements Template Method design pattern with abstract classes, inheritance, and polymorphism. Temperature and pressure sensors with extensible architecture for embedded environments.
+**[SensorMonitor (C++)](https://github.com/ndje-enge/SensorMonitor-CPP)** — Sensor simulation system in C++ using object-oriented programming. Implements Template Method design pattern with abstract classes, inheritance, and polymorphism. Temperature and pressure sensors with extensible architecture for embedded environments.
 
 ---
 
