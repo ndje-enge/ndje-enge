@@ -49,6 +49,8 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Violence Detection Project](https://github.com/ndje-enge/Violence-Detection-Project)** — Deep learning model for detecting violent behavior in video streams. Implements CNN-LSTM architecture for real-time violence detection with high accuracy for security applications.
 
+**[Plastic Waste Detection Project](ndje-enge/Plastic-Waste-Detection)** - End-to-end Computer Vision pipeline for training and evaluating YOLOv5 models to detect plastic waste in environmental images. Two model variants were trained and compared: YOLOv5s (small, fast) and YOLOv5l (large, accurate).
+
 ### ☁️ DevOps & Cloud Engineering
 
 **[Travel Application (Kubernetes/GKE)](https://gitlab.com/ndje-enge-group/docker-project)** — Flask microservices web application (Frontend + 2 Backends) deployed on Google Kubernetes Engine. Complete architecture with Ingress, GitLab CI/CD (KICS security scanning), Docker Registry, and in-memory SQLite databases. Automated build, test, and deployment pipeline.
