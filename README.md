@@ -29,7 +29,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ## 🔍 Featured Projects
 
-### 🤖 Artificial Intelligence & Multi-Agent Systems
+### 🤖 Natural Language Processing & Multi-Agent Systems
 
 **In Process... Real Estate Multi-Agent System (CrewAI)** — French real estate pricing system orchestrated by CrewAI. Uses 6 specialized agents (Parsing, Geo, Features, Model, Explanation, Sentiment) to estimate property prices from natural language descriptions. Integrates DVF, INSEE, OSM data with ML (LightGBM/XGBoost), SHAP explainability, and FastAPI.
 
