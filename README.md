@@ -55,6 +55,10 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Harris Corner Implementation](https://github.com/ndje-enge/Harris-corner-detection)** - A Python implementation of the Harris Corner Detection algorithm using OpenCV and NumPy. This project demonstrates one of the fundamental corner detection techniques in computer vision.
 
+### ⚖️ Optimization & AI
+
+**[Biscuit Production Optimization](https://github.com/ndje-enge/Biscuit-Production-Optimization)** - This project solves a real-world manufacturing optimization problem using three different metaheuristic algorithms (Genetic Algorithm, Simulated Annealing, Differential Evolution).
+
 ### ☁️ DevOps & Cloud Engineering
 
 **[Travel Application (Kubernetes/GKE)](https://gitlab.com/ndje-enge-group/docker-project)** — Flask microservices web application (Frontend + 2 Backends) deployed on Google Kubernetes Engine. Complete architecture with Ingress, GitLab CI/CD (KICS security scanning), Docker Registry, and in-memory SQLite databases. Automated build, test, and deployment pipeline.
