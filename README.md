@@ -47,6 +47,8 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Body Fat Prediction Analysis Project](https://github.com/ndje-enge/Body-Fat-Prediction)** - This project consists of a comprehensive analysis and prediction of body fat percentage from anthropometric measurements. The objective is to develop machine learning models capable of accurately predicting an individual's body fat percentage based on simple body measurements.
 
+**[Knn-Tensorflow-Algorithm](https://github.com/ndje-enge/Knn-Tensorflow-Algorithm)** - his project implements the K-Nearest Neighbors (KNN) algorithm with TensorFlow to classify flower species from the famous Iris dataset. The code automatically tests different k values (from 1 to 8) and selects the best configuration to achieve maximum accuracy.
+
 ### 🎥 Computer Vision
 
 **[Violence Detection Project](https://github.com/ndje-enge/Violence-Detection-Project)** — Deep learning model for detecting violent behavior in video streams. Implements CNN-LSTM architecture for real-time violence detection with high accuracy for security applications.
