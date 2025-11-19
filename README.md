@@ -1,6 +1,6 @@
 Hi there! 👋 I'm **Enge NOUADJE**
 
-## 💫 About Me
+## About Me
 
 👨‍🎓 **Data and AI Engineer** from Paris, passionate about data automation, applied mathematics, and intelligent systems.
 
