@@ -19,7 +19,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ---
 
-## 💡 Facts about me
+## Facts about me
 
 - Based in **Paris, France** 🇫🇷
 - Passionate about **applied mathematics** and **optimization algorithms**
@@ -27,7 +27,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 - 📚 Continuous learner with focus on **production ML systems**
 - 🌍 Interested in **AI for social good** and **healthcare applications**
 
-## 🔍 Featured Projects
+## Featured Projects
 
 ### 🤖 Natural Language Processing & Multi-Agent Systems
 
@@ -81,7 +81,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ---
 
-## 📊 Technologies & Skills
+## Technologies & Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -140,7 +140,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ---
 
-## 🔭 Currently Exploring
+## Currently Exploring
 
 - Advanced RAG architectures with multi-modal data
 - LLM fine-tuning and prompt engineering techniques  
@@ -150,7 +150,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
