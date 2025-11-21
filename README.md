@@ -37,7 +37,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Named Entity Recognition](https://github.com/ndje-enge/Named-entity-recognition-Project)** — NLP project implementing custom NER models for extracting entities from French text. Uses fine-tuned transformers (CamemBERT) for high-accuracy entity extraction in legal and real estate domains.
 
-**[Sentiment Analysis](https://github.com/ndje-enge/Sentiment-Analysis)** - This project implements a multi-label intent classification system that can identify multiple intents within a single utterance. The model is fine-tuned on a dataset of 30,328 examples using Huawei's TinyBERT architecture, achieving 77.33% accuracy on the test set.
+**[Intent Analysis](https://github.com/ndje-enge/Intent-Analysis)** - This project implements a multi-label intent classification system that can identify multiple intents within a single utterance. The model is fine-tuned on a dataset of 30,328 examples using Huawei's TinyBERT architecture, achieving 77.33% accuracy on the test set.
 
 ### 📊 Machine Learning & Data Science
 
