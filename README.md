@@ -77,6 +77,8 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Music-Library-Project](https://github.com/ndje-enge/Music-Library-Project)** - This project aims to develop an interactive app allowing users to manage their music library and listen to their favourite songs. In a team project context (4 people) we used Jira to dedicate the different tasks to each other as well as git to update our project easily without conflicts.
 
+**[TransConnect Application](https://github.com/ndje-enge/TransConnect-Application)** - TransConnect is a console application for managing a transportation company developed in C#. The system allows you to manage clients, employees, vehicles, orders, and the company's organizational chart. The project implements **Dijkstra's algorithm** to calculate the shortest path between two cities.
+
 ### 💻 Systems Programming
 
 **[SensorMonitor (C++)](https://github.com/ndje-enge/SensorMonitor-CPP)** — Sensor simulation system in C++ using object-oriented programming. Implements Template Method design pattern with abstract classes, inheritance, and polymorphism. Temperature and pressure sensors with extensible architecture for embedded environments.
