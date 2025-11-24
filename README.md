@@ -25,7 +25,6 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 - Passionate about **applied mathematics** and **optimization algorithms**
 - Open to collaborating on **AI/ML research projects**
 - 📚 Continuous learner with focus on **production ML systems**
-- 🌍 Interested in **AI for social good** and **healthcare applications**
 
 ## Featured Projects
 
