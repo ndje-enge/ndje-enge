@@ -24,7 +24,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 - Based in **Paris, France** 🇫🇷
 - Passionate about **applied mathematics** and **optimization algorithms**
 - Open to collaborating on **AI/ML research projects**
-- 📚 Continuous learner with focus on **production ML systems**
+- 📚 Continuous learner with focus on **ML systems**
 
 ## Featured Projects
 
