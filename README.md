@@ -32,7 +32,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **In Progress... Real Estate Multi-Agent System (CrewAI)** — French real estate pricing system orchestrated by CrewAI. Uses 6 specialized agents (Parsing, Geo, Features, Model, Explanation, Sentiment) to estimate property prices from natural language descriptions. Integrates DVF, INSEE, OSM data with ML (LightGBM/XGBoost), SHAP explainability, and FastAPI.
 
-**[MERCURE Application](https://github.com/ndje-enge/MERCURE-Application)** - MERCURE is a Django application enriched with AI tooling (LangChain, PyTorch, Transformers) for ingesting, analyzing, and classifying news articles. The default setup targets AML/CFT (LCB-FT) press monitoring with a Retrieval-Augmented Generation (RAG). It can be adapted to many other domains ! 
+**[MERCURE-Application](https://github.com/ndje-enge/MERCURE-Application)** - MERCURE is a Django application enriched with AI tooling (LangChain, PyTorch, Transformers) for ingesting, analyzing, and classifying news articles. The default setup targets AML/CFT (LCB-FT) press monitoring with a Retrieval-Augmented Generation (RAG). It can be adapted to many other domains ! 
 
 **[Multi-Agent School Assistant](https://github.com/ndje-enge/Multi-Agent-for-academical-assistance)** — Intelligent educational assistant for middle school students using multi-agent architecture with Google Vertex AI. 5 specialized agents collaborate (RAG Search, Pedagogical, Assessment, Planning, Orchestrator) to provide personalized assistance. Deployed on GCP with Gemini.
 
