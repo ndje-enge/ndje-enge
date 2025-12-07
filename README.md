@@ -62,7 +62,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ### ⚙️ Data Engineering
 
-**[Company ETL Pipeline](https://github.com/ndje-enge/Data-ETL-Pipeline)** - A Databricks-based ETL pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.
+**[Sport Company ETL Pipeline](https://github.com/ndje-enge/Data-ETL-Pipeline)** - A Databricks-based ETL pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.
 
 ### ⚖️ Optimization & AI
 
