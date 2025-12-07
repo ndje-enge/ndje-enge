@@ -60,6 +60,10 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 **[Harris Corner Implementation](https://github.com/ndje-enge/Harris-corner-detection)** - A Python implementation of the Harris Corner Detection algorithm using OpenCV and NumPy. This project demonstrates one of the fundamental corner detection techniques in computer vision.
 
+### ⚙️ Data Engineering
+
+**[Company ETL Pipeline](https://github.com/ndje-enge/Data-ETL-Pipeline)** - A Databricks-based ETL pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.
+
 ### ⚖️ Optimization & AI
 
 **[Biscuit Production Optimization](https://github.com/ndje-enge/Biscuit-Production-Optimization)** - This project solves a real-world manufacturing optimization problem using three different metaheuristic algorithms (Genetic Algorithm, Simulated Annealing, Differential Evolution).
