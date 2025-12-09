@@ -62,9 +62,9 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 
 ### ⚙️ Data Engineering
 
-**[Sport Company ETL Pipeline](https://github.com/ndje-enge/Data-ETL-Pipeline)** - A Databricks-based ETL pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.
+**[Sport Company ETL Pipeline](https://github.com/ndje-enge/ELT-Pipeline-Databricks)** - A Databricks-based ELT pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.
 
-**[ELT Pipeline](https://github.com/ndje-enge/ETL-pipeline)** - A modern data engineering project demonstrating a complete ELT pipeline using dbt for data transformations, Snowflake as the cloud data warehouse, and Apache Airflow for orchestration.
+**[ELT Pipeline](https://github.com/ndje-enge/ELT-pipeline-Snowflake)** - A modern data engineering project demonstrating a complete ELT pipeline using dbt for data transformations, Snowflake as the cloud data warehouse, and Apache Airflow for orchestration.
 
 ### ⚖️ Optimization & AI
 
