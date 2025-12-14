@@ -6,7 +6,7 @@ Hi! 👋 I'm **Enge NOUADJE**
 
 I specialize in building end-to-end AI solutions, from exploratory data analysis to production-ready deployments on cloud platforms.
 
-Currently working on multi-agent systems, survival analysis, and MLOps automation.
+Currently working on multi-agent systems, survival analysis, and Data Engineering.
 
 ## Connect With Me
 
