@@ -1,12 +1,12 @@
-Hi there! 👋 I'm **Enge NOUADJE**
+Hi! 👋 I'm **Enge NOUADJE**
 
 ## About Me
 
-👨‍🎓 **Data and AI Engineer** from Paris, passionate about data automation, applied mathematics, and intelligent systems.
+**Data and AI Engineer** from Paris, passionate about data automation, applied mathematics, and intelligent systems.
 
 I specialize in building end-to-end AI solutions, from exploratory data analysis to production-ready deployments on cloud platforms.
 
-🎯 Currently working on multi-agent systems, survival analysis, and MLOps automation.
+Currently working on multi-agent systems, survival analysis, and MLOps automation.
 
 ## Connect With Me
 
@@ -24,7 +24,7 @@ I specialize in building end-to-end AI solutions, from exploratory data analysis
 - Based in **Paris, France** 🇫🇷
 - Passionate about **applied mathematics** and **optimization algorithms**
 - Open to collaborating on **AI/ML research projects**
-- 📚 Continuous learner with focus on **ML systems**
+- ontinuous learner with focus on **ML systems**
 
 ## Featured Projects
 
