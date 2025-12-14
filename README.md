@@ -94,13 +94,6 @@ Currently working on multi-agent systems, survival analysis, and MLOps automatio
 
 ## Technologies & Skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Machine Learning & AI
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -133,8 +126,9 @@ Currently working on multi-agent systems, survival analysis, and MLOps automatio
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=flat&logo=oracle&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 ---
 
@@ -155,29 +149,11 @@ Currently working on multi-agent systems, survival analysis, and MLOps automatio
 ## Currently Exploring
 
 - Advanced RAG architectures with multi-modal data
-- LLM fine-tuning and prompt engineering techniques  
-- Production-grade MLOps pipelines on cloud platforms
-- Real-time ML inference optimization
-- Distributed computing for large-scale data processing
+- LLM fine-tuning and prompt engineering techniques
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndje-enge&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndje-enge&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ndje-enge&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-
-**Open to opportunities in Data Engineering, MLOps, and AI/ML roles**
+**Open to opportunities in Data Engineering, Data Science and AI/ML roles**
 
 </div>
 
