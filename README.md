@@ -132,7 +132,7 @@ Currently working on multi-agent systems, survival analysis, and MLOps automatio
 
 ---
 
-## 🎯 Areas of Expertise
+## Areas of Expertise
 
 - **Multi-Agent Systems**: CrewAI architecture, intelligent orchestration, specialized agents, RAG systems
 - **Machine Learning**: Survival analysis, classification, regression, time series forecasting, advanced feature engineering
