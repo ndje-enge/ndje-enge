@@ -60,9 +60,9 @@ Currently working on multi-agent systems, survival analysis, and data engineerin
 
 ### ⚙️ Data Engineering
 
-**[Sport Company ETL Pipeline](https://github.com/ndje-enge/ETL-Pipeline-Databricks)** - A Databricks-based ELT pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.
+**[Sport Company ETL Pipeline](https://github.com/ndje-enge/ETL-Pipeline-Databricks)** - A Databricks-based ETL pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.
 
-**[Basic ETL Pipeline](https://github.com/ndje-enge/ETL-pipeline-Snowflake)** - A modern data engineering project demonstrating a complete ELT pipeline using dbt for data transformations, Snowflake as the cloud data warehouse, and Apache Airflow for orchestration.
+**[Basic ETL Pipeline](https://github.com/ndje-enge/ETL-pipeline-Snowflake)** - A modern data engineering project demonstrating a complete ETL pipeline using dbt for data transformations, Snowflake as the cloud data warehouse, and Apache Airflow for orchestration.
 
 ### ⚖️ Optimization & AI
 
